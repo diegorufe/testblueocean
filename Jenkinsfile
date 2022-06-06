@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('After build') {
       steps {
-        echo 'After build example message'
+        echo 'After build'
       }
     }
 
